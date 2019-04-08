@@ -1,0 +1,280 @@
+C:\Users\alena.NAPPOZORDDESK\Desktop\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.exe.config
+C:\Users\alena.NAPPOZORDDESK\Desktop\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.exe
+C:\Users\alena.NAPPOZORDDESK\Desktop\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csprojAssemblyReference.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.Form1.resources
+C:\Users\alena.NAPPOZORDDESK\Desktop\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.Properties.Resources.resources
+C:\Users\alena.NAPPOZORDDESK\Desktop\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.GenerateResource.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.CoreCompileInputs.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.exe
+C:\Users\alena.NAPPOZORDDESK\Desktop\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.pdb
+C:\Users\dignu\Desktop\esponi\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.exe.config
+C:\Users\dignu\Desktop\esponi\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.exe
+C:\Users\dignu\Desktop\esponi\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.pdb
+C:\Users\dignu\Desktop\esponi\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csprojAssemblyReference.cache
+C:\Users\dignu\Desktop\esponi\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.Form1.resources
+C:\Users\dignu\Desktop\esponi\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.Properties.Resources.resources
+C:\Users\dignu\Desktop\esponi\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.GenerateResource.cache
+C:\Users\dignu\Desktop\esponi\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.CoreCompileInputs.cache
+C:\Users\dignu\Desktop\esponi\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.exe
+C:\Users\dignu\Desktop\esponi\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.exe.config
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.exe
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csprojAssemblyReference.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.Form1.resources
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.Properties.Resources.resources
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.GenerateResource.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.CoreCompileInputs.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.exe
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.pdb
+D:\Users\marri\Desktop\esp\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csprojAssemblyReference.cache
+D:\Users\marri\Desktop\esp\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.Form1.resources
+D:\Users\marri\Desktop\esp\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.Properties.Resources.resources
+D:\Users\marri\Desktop\esp\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.GenerateResource.cache
+D:\Users\marri\Desktop\esp\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.CoreCompileInputs.cache
+D:\Users\marri\Desktop\esp\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.exe
+D:\Users\marri\Desktop\esp\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.pdb
+D:\Users\marri\Desktop\esp\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.exe.config
+D:\Users\marri\Desktop\esp\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.exe
+D:\Users\marri\Desktop\esp\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.pdb
+D:\Users\marri\Desktop\esp\GUI3_esp - Copia\GUI3_esp\bin\Debug\GUI3_esp.exe.config
+D:\Users\marri\Desktop\esp\GUI3_esp - Copia\GUI3_esp\bin\Debug\GUI3_esp.exe
+D:\Users\marri\Desktop\esp\GUI3_esp - Copia\GUI3_esp\bin\Debug\GUI3_esp.pdb
+D:\Users\marri\Desktop\esp\GUI3_esp - Copia\GUI3_esp\bin\Debug\MACTrackBarLib.dll
+D:\Users\marri\Desktop\esp\GUI3_esp - Copia\GUI3_esp\bin\Debug\MACTrackBarLib.pdb
+D:\Users\marri\Desktop\esp\GUI3_esp - Copia\GUI3_esp\obj\Debug\GUI3_esp.csprojAssemblyReference.cache
+D:\Users\marri\Desktop\esp\GUI3_esp - Copia\GUI3_esp\obj\Debug\GUI3_esp.Form1.resources
+D:\Users\marri\Desktop\esp\GUI3_esp - Copia\GUI3_esp\obj\Debug\GUI3_esp.Properties.Resources.resources
+D:\Users\marri\Desktop\esp\GUI3_esp - Copia\GUI3_esp\obj\Debug\GUI3_esp.csproj.GenerateResource.cache
+D:\Users\marri\Desktop\esp\GUI3_esp - Copia\GUI3_esp\obj\Debug\GUI3_esp.csproj.CoreCompileInputs.cache
+D:\Users\marri\Desktop\esp\GUI3_esp - Copia\GUI3_esp\obj\Debug\GUI3_esp.csproj.CopyComplete
+D:\Users\marri\Desktop\esp\GUI3_esp - Copia\GUI3_esp\obj\Debug\GUI3_esp.exe
+D:\Users\marri\Desktop\esp\GUI3_esp - Copia\GUI3_esp\obj\Debug\GUI3_esp.pdb
+D:\Users\marri\Desktop\esp\esponi\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.exe.config
+D:\Users\marri\Desktop\esp\esponi\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.exe
+D:\Users\marri\Desktop\esp\esponi\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.pdb
+D:\Users\marri\Desktop\esp\esponi\GUI3_esp\GUI3_esp\bin\Debug\MACTrackBarLib.dll
+D:\Users\marri\Desktop\esp\esponi\GUI3_esp\GUI3_esp\bin\Debug\MACTrackBarLib.pdb
+D:\Users\marri\Desktop\esp\esponi\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csprojAssemblyReference.cache
+D:\Users\marri\Desktop\esp\esponi\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.Form1.resources
+D:\Users\marri\Desktop\esp\esponi\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.Properties.Resources.resources
+D:\Users\marri\Desktop\esp\esponi\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.GenerateResource.cache
+D:\Users\marri\Desktop\esp\esponi\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.CoreCompileInputs.cache
+D:\Users\marri\Desktop\esp\esponi\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.CopyComplete
+D:\Users\marri\Desktop\esp\esponi\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.exe
+D:\Users\marri\Desktop\esp\esponi\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_CON_LE_GUI\esponi\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.exe.config
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_CON_LE_GUI\esponi\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.exe
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_CON_LE_GUI\esponi\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_CON_LE_GUI\esponi\GUI3_esp\GUI3_esp\bin\Debug\MACTrackBarLib.dll
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_CON_LE_GUI\esponi\GUI3_esp\GUI3_esp\bin\Debug\MACTrackBarLib.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_CON_LE_GUI\esponi\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csprojAssemblyReference.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_CON_LE_GUI\esponi\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.Form1.resources
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_CON_LE_GUI\esponi\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.Properties.Resources.resources
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_CON_LE_GUI\esponi\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.GenerateResource.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_CON_LE_GUI\esponi\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.CoreCompileInputs.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_CON_LE_GUI\esponi\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.CopyComplete
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_CON_LE_GUI\esponi\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.exe
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_CON_LE_GUI\esponi\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_SERVER_CAMBIATO\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.exe.config
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_SERVER_CAMBIATO\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.exe
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_SERVER_CAMBIATO\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_SERVER_CAMBIATO\GUI3_esp\GUI3_esp\bin\Debug\MACTrackBarLib.dll
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_SERVER_CAMBIATO\GUI3_esp\GUI3_esp\bin\Debug\MACTrackBarLib.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_SERVER_CAMBIATO\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csprojAssemblyReference.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_SERVER_CAMBIATO\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.Form1.resources
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_SERVER_CAMBIATO\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.Properties.Resources.resources
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_SERVER_CAMBIATO\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.GenerateResource.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_SERVER_CAMBIATO\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.CoreCompileInputs.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_SERVER_CAMBIATO\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.CopyComplete
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_SERVER_CAMBIATO\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.exe
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_SERVER_CAMBIATO\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.exe.config
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.exe
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\bin\Debug\MACTrackBarLib.dll
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\bin\Debug\MACTrackBarLib.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csprojAssemblyReference.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.Form1.resources
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.Properties.Resources.resources
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.GenerateResource.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.CoreCompileInputs.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.CopyComplete
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.exe
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.pdb
+E:\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.exe.config
+E:\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.exe
+E:\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.pdb
+E:\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\bin\Debug\MACTrackBarLib.dll
+E:\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\bin\Debug\MACTrackBarLib.pdb
+E:\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csprojAssemblyReference.cache
+E:\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.Form1.resources
+E:\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.Properties.Resources.resources
+E:\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.GenerateResource.cache
+E:\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.CoreCompileInputs.cache
+E:\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.CopyComplete
+E:\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.exe
+E:\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.pdb
+C:\Users\dignu\Desktop\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.exe.config
+C:\Users\dignu\Desktop\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.exe
+C:\Users\dignu\Desktop\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.pdb
+C:\Users\dignu\Desktop\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\bin\Debug\MACTrackBarLib.dll
+C:\Users\dignu\Desktop\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\bin\Debug\MACTrackBarLib.pdb
+C:\Users\dignu\Desktop\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csprojAssemblyReference.cache
+C:\Users\dignu\Desktop\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.Form1.resources
+C:\Users\dignu\Desktop\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.Properties.Resources.resources
+C:\Users\dignu\Desktop\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.GenerateResource.cache
+C:\Users\dignu\Desktop\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.CoreCompileInputs.cache
+C:\Users\dignu\Desktop\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.CopyComplete
+C:\Users\dignu\Desktop\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.exe
+C:\Users\dignu\Desktop\esp_SUPER_SAJAN\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.pdb
+C:\Users\Nappozord\Downloads\Telegram Desktop\esp_SUPER_SAJAN_LVL2\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.exe.config
+C:\Users\Nappozord\Downloads\Telegram Desktop\esp_SUPER_SAJAN_LVL2\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.exe
+C:\Users\Nappozord\Downloads\Telegram Desktop\esp_SUPER_SAJAN_LVL2\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.pdb
+C:\Users\Nappozord\Downloads\Telegram Desktop\esp_SUPER_SAJAN_LVL2\GUI3_esp\GUI3_esp\bin\Debug\MACTrackBarLib.dll
+C:\Users\Nappozord\Downloads\Telegram Desktop\esp_SUPER_SAJAN_LVL2\GUI3_esp\GUI3_esp\bin\Debug\MACTrackBarLib.pdb
+C:\Users\Nappozord\Downloads\Telegram Desktop\esp_SUPER_SAJAN_LVL2\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csprojAssemblyReference.cache
+C:\Users\Nappozord\Downloads\Telegram Desktop\esp_SUPER_SAJAN_LVL2\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.Form1.resources
+C:\Users\Nappozord\Downloads\Telegram Desktop\esp_SUPER_SAJAN_LVL2\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.Properties.Resources.resources
+C:\Users\Nappozord\Downloads\Telegram Desktop\esp_SUPER_SAJAN_LVL2\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.GenerateResource.cache
+C:\Users\Nappozord\Downloads\Telegram Desktop\esp_SUPER_SAJAN_LVL2\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.CoreCompileInputs.cache
+C:\Users\Nappozord\Downloads\Telegram Desktop\esp_SUPER_SAJAN_LVL2\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.CopyComplete
+C:\Users\Nappozord\Downloads\Telegram Desktop\esp_SUPER_SAJAN_LVL2\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.exe
+C:\Users\Nappozord\Downloads\Telegram Desktop\esp_SUPER_SAJAN_LVL2\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.pdb
+C:\Users\Nappozord\Desktop\esp_SUPER_SAJAN_LVL2\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.exe.config
+C:\Users\Nappozord\Desktop\esp_SUPER_SAJAN_LVL2\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.exe
+C:\Users\Nappozord\Desktop\esp_SUPER_SAJAN_LVL2\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.pdb
+C:\Users\Nappozord\Desktop\esp_SUPER_SAJAN_LVL2\GUI3_esp\GUI3_esp\bin\Debug\MACTrackBarLib.dll
+C:\Users\Nappozord\Desktop\esp_SUPER_SAJAN_LVL2\GUI3_esp\GUI3_esp\bin\Debug\MACTrackBarLib.pdb
+C:\Users\Nappozord\Desktop\esp_SUPER_SAJAN_LVL2\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csprojAssemblyReference.cache
+C:\Users\Nappozord\Desktop\esp_SUPER_SAJAN_LVL2\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.Form1.resources
+C:\Users\Nappozord\Desktop\esp_SUPER_SAJAN_LVL2\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.Properties.Resources.resources
+C:\Users\Nappozord\Desktop\esp_SUPER_SAJAN_LVL2\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.GenerateResource.cache
+C:\Users\Nappozord\Desktop\esp_SUPER_SAJAN_LVL2\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.CoreCompileInputs.cache
+C:\Users\Nappozord\Desktop\esp_SUPER_SAJAN_LVL2\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.CopyComplete
+C:\Users\Nappozord\Desktop\esp_SUPER_SAJAN_LVL2\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.exe
+C:\Users\Nappozord\Desktop\esp_SUPER_SAJAN_LVL2\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.pdb
+C:\Users\dignu\Desktop\Nuova cartella\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.exe.config
+C:\Users\dignu\Desktop\Nuova cartella\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.exe
+C:\Users\dignu\Desktop\Nuova cartella\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.pdb
+C:\Users\dignu\Desktop\Nuova cartella\GUI3_esp\GUI3_esp\bin\Debug\MACTrackBarLib.dll
+C:\Users\dignu\Desktop\Nuova cartella\GUI3_esp\GUI3_esp\bin\Debug\MACTrackBarLib.pdb
+C:\Users\dignu\Desktop\Nuova cartella\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csprojAssemblyReference.cache
+C:\Users\dignu\Desktop\Nuova cartella\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.Form1.resources
+C:\Users\dignu\Desktop\Nuova cartella\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.Properties.Resources.resources
+C:\Users\dignu\Desktop\Nuova cartella\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.GenerateResource.cache
+C:\Users\dignu\Desktop\Nuova cartella\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.CoreCompileInputs.cache
+C:\Users\dignu\Desktop\Nuova cartella\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.CopyComplete
+C:\Users\dignu\Desktop\Nuova cartella\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.exe
+C:\Users\dignu\Desktop\Nuova cartella\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN_GOD\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.exe.config
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN_GOD\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.exe
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN_GOD\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN_GOD\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.dll
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN_GOD\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN_GOD\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN_GOD\GUI3_esp\GUI3_esp\bin\Debug\MACTrackBarLib.dll
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN_GOD\GUI3_esp\GUI3_esp\bin\Debug\MACTrackBarLib.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN_GOD\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN_GOD\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.xml
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN_GOD\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN_GOD\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN_GOD\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN_GOD\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN_GOD\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csprojAssemblyReference.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN_GOD\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.Form1.resources
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN_GOD\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.Properties.Resources.resources
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN_GOD\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.GenerateResource.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN_GOD\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.CoreCompileInputs.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN_GOD\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.CopyComplete
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN_GOD\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.exe
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN_GOD\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.exe.config
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.exe
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.dll
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\MACTrackBarLib.dll
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\MACTrackBarLib.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.xml
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csprojAssemblyReference.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.Form1.resources
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.Properties.Resources.resources
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.GenerateResource.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.CoreCompileInputs.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.CopyComplete
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.exe
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.pdb
+C:\Users\alena\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.exe.config
+C:\Users\alena\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.exe
+C:\Users\alena\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.pdb
+C:\Users\alena\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.dll
+C:\Users\alena\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\alena\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\alena\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\MACTrackBarLib.dll
+C:\Users\alena\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\MACTrackBarLib.pdb
+C:\Users\alena\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.pdb
+C:\Users\alena\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.xml
+C:\Users\alena\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\alena\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\alena\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\alena\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\alena\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csprojAssemblyReference.cache
+C:\Users\alena\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.Form1.resources
+C:\Users\alena\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.Properties.Resources.resources
+C:\Users\alena\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.GenerateResource.cache
+C:\Users\alena\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.CoreCompileInputs.cache
+C:\Users\alena\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.CopyComplete
+C:\Users\alena\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.exe
+C:\Users\alena\Desktop\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.pdb
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.exe.config
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.exe
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.pdb
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.dll
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.WinForms.dll
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.Wpf.dll
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\MACTrackBarLib.dll
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\MACTrackBarLib.pdb
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.pdb
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.xml
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.WinForms.pdb
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.WinForms.xml
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.Wpf.pdb
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.Wpf.xml
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csprojAssemblyReference.cache
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.Form1.resources
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.Properties.Resources.resources
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.GenerateResource.cache
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.CoreCompileInputs.cache
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.CopyComplete
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.exe
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.pdb
+C:\Users\alena\OneDrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.exe.config
+C:\Users\alena\OneDrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.exe
+C:\Users\alena\OneDrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\GUI3_esp.pdb
+C:\Users\alena\OneDrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.dll
+C:\Users\alena\OneDrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\alena\OneDrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\alena\OneDrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\MACTrackBarLib.dll
+C:\Users\alena\OneDrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\MACTrackBarLib.pdb
+C:\Users\alena\OneDrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.pdb
+C:\Users\alena\OneDrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.xml
+C:\Users\alena\OneDrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\alena\OneDrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\alena\OneDrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\alena\OneDrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\alena\OneDrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csprojAssemblyReference.cache
+C:\Users\alena\OneDrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.Form1.resources
+C:\Users\alena\OneDrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.Properties.Resources.resources
+C:\Users\alena\OneDrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.GenerateResource.cache
+C:\Users\alena\OneDrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.CoreCompileInputs.cache
+C:\Users\alena\OneDrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.csproj.CopyComplete
+C:\Users\alena\OneDrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.exe
+C:\Users\alena\OneDrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\GUI3_esp\obj\Debug\GUI3_esp.pdb

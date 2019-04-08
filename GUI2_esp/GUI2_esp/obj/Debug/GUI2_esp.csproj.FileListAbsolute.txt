@@ -1,0 +1,90 @@
+C:\Users\dignu\source\repos\GUI2_esp\GUI2_esp\bin\Debug\GUI2_esp.exe.config
+C:\Users\dignu\source\repos\GUI2_esp\GUI2_esp\bin\Debug\GUI2_esp.exe
+C:\Users\dignu\source\repos\GUI2_esp\GUI2_esp\bin\Debug\GUI2_esp.pdb
+C:\Users\dignu\source\repos\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.csprojAssemblyReference.cache
+C:\Users\dignu\source\repos\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.Properties.Resources.resources
+C:\Users\dignu\source\repos\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.csproj.GenerateResource.cache
+C:\Users\dignu\source\repos\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.csproj.CoreCompileInputs.cache
+C:\Users\dignu\source\repos\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.exe
+C:\Users\dignu\source\repos\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.pdb
+C:\Users\dignu\source\repos\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.Form1.resources
+C:\Users\dignu\Desktop\esponi\GUI2_esp\GUI2_esp\bin\Debug\GUI2_esp.exe.config
+C:\Users\dignu\Desktop\esponi\GUI2_esp\GUI2_esp\bin\Debug\GUI2_esp.exe
+C:\Users\dignu\Desktop\esponi\GUI2_esp\GUI2_esp\bin\Debug\GUI2_esp.pdb
+C:\Users\dignu\Desktop\esponi\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.csprojAssemblyReference.cache
+C:\Users\dignu\Desktop\esponi\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.Form1.resources
+C:\Users\dignu\Desktop\esponi\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.Properties.Resources.resources
+C:\Users\dignu\Desktop\esponi\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.csproj.GenerateResource.cache
+C:\Users\dignu\Desktop\esponi\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.csproj.CoreCompileInputs.cache
+C:\Users\dignu\Desktop\esponi\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.exe
+C:\Users\dignu\Desktop\esponi\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi\GUI2_esp\GUI2_esp\bin\Debug\GUI2_esp.exe.config
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi\GUI2_esp\GUI2_esp\bin\Debug\GUI2_esp.exe
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi\GUI2_esp\GUI2_esp\bin\Debug\GUI2_esp.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.csprojAssemblyReference.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.Form1.resources
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.Properties.Resources.resources
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.csproj.GenerateResource.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.csproj.CoreCompileInputs.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.exe
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.pdb
+D:\Users\marri\Desktop\esp\esponi\GUI2_esp\GUI2_esp\bin\Debug\GUI2_esp.exe.config
+D:\Users\marri\Desktop\esp\esponi\GUI2_esp\GUI2_esp\bin\Debug\GUI2_esp.exe
+D:\Users\marri\Desktop\esp\esponi\GUI2_esp\GUI2_esp\bin\Debug\GUI2_esp.pdb
+D:\Users\marri\Desktop\esp\esponi\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.csprojAssemblyReference.cache
+D:\Users\marri\Desktop\esp\esponi\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.Form1.resources
+D:\Users\marri\Desktop\esp\esponi\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.Properties.Resources.resources
+D:\Users\marri\Desktop\esp\esponi\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.csproj.GenerateResource.cache
+D:\Users\marri\Desktop\esp\esponi\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.csproj.CoreCompileInputs.cache
+D:\Users\marri\Desktop\esp\esponi\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.exe
+D:\Users\marri\Desktop\esp\esponi\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.pdb
+D:\Users\marri\Desktop\Polito\PDS - Programmazione di Sistema\Progetto_Esp\esponi\GUI2_esp\GUI2_esp\bin\Debug\GUI2_esp.exe.config
+D:\Users\marri\Desktop\Polito\PDS - Programmazione di Sistema\Progetto_Esp\esponi\GUI2_esp\GUI2_esp\bin\Debug\GUI2_esp.exe
+D:\Users\marri\Desktop\Polito\PDS - Programmazione di Sistema\Progetto_Esp\esponi\GUI2_esp\GUI2_esp\bin\Debug\GUI2_esp.pdb
+D:\Users\marri\Desktop\Polito\PDS - Programmazione di Sistema\Progetto_Esp\esponi\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.csprojAssemblyReference.cache
+D:\Users\marri\Desktop\Polito\PDS - Programmazione di Sistema\Progetto_Esp\esponi\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.Form1.resources
+D:\Users\marri\Desktop\Polito\PDS - Programmazione di Sistema\Progetto_Esp\esponi\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.Properties.Resources.resources
+D:\Users\marri\Desktop\Polito\PDS - Programmazione di Sistema\Progetto_Esp\esponi\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.csproj.GenerateResource.cache
+D:\Users\marri\Desktop\Polito\PDS - Programmazione di Sistema\Progetto_Esp\esponi\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.csproj.CoreCompileInputs.cache
+D:\Users\marri\Desktop\Polito\PDS - Programmazione di Sistema\Progetto_Esp\esponi\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.exe
+D:\Users\marri\Desktop\Polito\PDS - Programmazione di Sistema\Progetto_Esp\esponi\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_SERVER_CAMBIATO\GUI2_esp\GUI2_esp\bin\Debug\GUI2_esp.exe.config
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_SERVER_CAMBIATO\GUI2_esp\GUI2_esp\bin\Debug\GUI2_esp.exe
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_SERVER_CAMBIATO\GUI2_esp\GUI2_esp\bin\Debug\GUI2_esp.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_SERVER_CAMBIATO\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.csprojAssemblyReference.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_SERVER_CAMBIATO\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.Form1.resources
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_SERVER_CAMBIATO\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.Properties.Resources.resources
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_SERVER_CAMBIATO\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.csproj.GenerateResource.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_SERVER_CAMBIATO\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.csproj.CoreCompileInputs.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_SERVER_CAMBIATO\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.exe
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_SERVER_CAMBIATO\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN\GUI2_esp\GUI2_esp\bin\Debug\GUI2_esp.exe.config
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN\GUI2_esp\GUI2_esp\bin\Debug\GUI2_esp.exe
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN\GUI2_esp\GUI2_esp\bin\Debug\GUI2_esp.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.csprojAssemblyReference.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.Form1.resources
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.Properties.Resources.resources
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.csproj.GenerateResource.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.csproj.CoreCompileInputs.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.exe
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.pdb
+E:\esp_SUPER_SAJAN\GUI2_esp\GUI2_esp\bin\Debug\GUI2_esp.exe.config
+E:\esp_SUPER_SAJAN\GUI2_esp\GUI2_esp\bin\Debug\GUI2_esp.exe
+E:\esp_SUPER_SAJAN\GUI2_esp\GUI2_esp\bin\Debug\GUI2_esp.pdb
+E:\esp_SUPER_SAJAN\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.csprojAssemblyReference.cache
+E:\esp_SUPER_SAJAN\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.Form1.resources
+E:\esp_SUPER_SAJAN\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.Properties.Resources.resources
+E:\esp_SUPER_SAJAN\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.csproj.GenerateResource.cache
+E:\esp_SUPER_SAJAN\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.csproj.CoreCompileInputs.cache
+E:\esp_SUPER_SAJAN\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.exe
+E:\esp_SUPER_SAJAN\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.pdb
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI2_esp\GUI2_esp\bin\Debug\GUI2_esp.exe.config
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI2_esp\GUI2_esp\bin\Debug\GUI2_esp.exe
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI2_esp\GUI2_esp\bin\Debug\GUI2_esp.pdb
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.csprojAssemblyReference.cache
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.Form1.resources
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.Properties.Resources.resources
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.csproj.GenerateResource.cache
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.csproj.CoreCompileInputs.cache
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.exe
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI2_esp\GUI2_esp\obj\Debug\GUI2_esp.pdb

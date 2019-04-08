@@ -1,0 +1,4 @@
+﻿  triangulation.cpp
+d:\onedrive\esp_super_ssj_god_ssj(v1)\rec_analyzer\rec_analyzer\triangulation.cpp(112): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  rec_analyzer.vcxproj -> D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\rec_analyzer\Debug\rec_analyzer.exe

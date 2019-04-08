@@ -1,0 +1,6 @@
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\MACTrackBarLib\bin\Release\MACTrackBarLib.dll
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\MACTrackBarLib\obj\Release\MACTrackBarLib.csprojAssemblyReference.cache
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\MACTrackBarLib\obj\Release\XComponent.SliderBar.MACTrackBar.resources
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\MACTrackBarLib\obj\Release\MACTrackBarLib.csproj.GenerateResource.cache
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\MACTrackBarLib\obj\Release\MACTrackBarLib.csproj.CoreCompileInputs.cache
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI3_esp\MACTrackBarLib\obj\Release\MACTrackBarLib.dll

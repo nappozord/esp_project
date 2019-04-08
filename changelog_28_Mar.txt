@@ -1,0 +1,34 @@
+GENERAL:		- La GUI è l'unico programma visibile, insieme alla ROOM_MAP e al POSITIONER (niente console di server e rec_analyzer)
+				- Aggiunta funzione di backup dei dati
+
+GUI:			- Aggiunto grafico istogramma (User) x (# Volte beccato nel tempo scelto)
+				- I MAC adesso sono tutti in maiuscolo
+				- I MAC che hanno una parte che inizia per 0, adesso iniziano per zero (es. prima: AB:C:DE, dopo: AB:0C:DE)
+				- Il programma NON ha più possibilità di aprirsi due (o più) volte, cosa che prima succedeva per motivi ignoti
+				- La trackbar dopo essere usciti dalla sezione statistiche è visibile
+				- Il tasto live dopo essere usciti dalla sezione statistiche funziona (prima era tutto buggato)
+				- Una volta chiusa la GUI, che è di fatto l'unica cosa visibile del programma, vengono automaticamente chiusi tutti gli altri programmi (server e rec_analyzer)
+				- La GUI si apre subito: se non è ancora stata registrata una mappa, viene mostrato un testo placeholder e i bottoni PLOT, LIVE e STAT disabilitati
+				- Quando il programma viene chiuso esegue il backup dei dati: crea una cartella chiamata con la data corrente e muove i file room.txt, mac_list.txt e tima_and_space.txt in essa, eliminando tali file dalla cartella principale
+				- Se non si stanno facendo sniffate, si possono vedere gli storici 
+				- Aggiungere bottone per vedere gli storici 
+				- Aggiungere Device on ESP 
+				- Aggiungere 5+ 
+
+POSITIONER:		- Il programma NON ha più possibilità di aprirsi due volte, anche se si aspettano 16 anni
+				- NON si aprono quindi nemmeno 2 programmi diversi per due esp diverse, ma se ne apre uno alla volta, almeno ci si capisce meglio
+				- I MAC adesso sono tutti in maiuscolo
+				
+REC_ANALYZER:	- Aggiunta rimozione automatica di mac_list.txt (useless)
+				- It's funcking invisible!!!!
+
+SERVER:			- Aggiunta rimozione automatica di room.txt (useless)
+				- Aggiunta icona ESP all'exe perché fa figo
+				- Ridotto tempo di awarness rimozione esp a 10 secondi (in pratica ora appena si stacca un esp e si riattacca dopo più di 10 secondi, il server rimanda il positioner)
+				- It's fucking invisible too!!!!
+
+TODO:			- Mettere Device(2+) on ESP (done(?))
+				- Fix server by Nappo (done)
+				- Se non è presente mac_list.txt e o time_space.txt non si deve creare il backup (done)
+				- README.txt
+				- Installer

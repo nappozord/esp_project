@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  rec_analyzer.cpp
+d:\onedrive\esp_super_ssj_god_ssj(v1)\rec_analyzer\rec_analyzer\rec_analyzer.cpp(175): warning C4018: '<': signed/unsigned mismatch
+d:\onedrive\esp_super_ssj_god_ssj(v1)\rec_analyzer\rec_analyzer\rec_analyzer.cpp(183): warning C4018: '<': signed/unsigned mismatch
+  triangulation.cpp
+d:\onedrive\esp_super_ssj_god_ssj(v1)\rec_analyzer\rec_analyzer\triangulation.cpp(112): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  user.cpp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  All 812 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  rec_analyzer.vcxproj -> D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\rec_analyzer\Release\rec_analyzer.exe

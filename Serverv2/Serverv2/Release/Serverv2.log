@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  Serverv2.cpp
+d:\onedrive\esp_super_ssj_god_ssj(v1)\serverv2\serverv2\serverv2.cpp(65): warning C4101: 'r': unreferenced local variable
+  Generating code
+  All 521 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Serverv2.vcxproj -> D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\Serverv2\Release\Serverv2.exe

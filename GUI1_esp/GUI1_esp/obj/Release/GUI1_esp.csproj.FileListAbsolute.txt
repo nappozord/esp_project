@@ -1,0 +1,11 @@
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI1_esp\GUI1_esp\bin\Release\GUI1_esp.exe.config
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI1_esp\GUI1_esp\bin\Release\GUI1_esp.exe
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI1_esp\GUI1_esp\bin\Release\GUI1_esp.pdb
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI1_esp\GUI1_esp\bin\Release\Tulpep.NotificationWindow.dll
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI1_esp\GUI1_esp\obj\Release\GUI1_esp.Form2.resources
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI1_esp\GUI1_esp\obj\Release\GUI1_esp.Properties.Resources.resources
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI1_esp\GUI1_esp\obj\Release\GUI1_esp.csproj.GenerateResource.cache
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI1_esp\GUI1_esp\obj\Release\GUI1_esp.csproj.CoreCompileInputs.cache
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI1_esp\GUI1_esp\obj\Release\GUI1_esp.csproj.CopyComplete
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI1_esp\GUI1_esp\obj\Release\GUI1_esp.exe
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI1_esp\GUI1_esp\obj\Release\GUI1_esp.pdb

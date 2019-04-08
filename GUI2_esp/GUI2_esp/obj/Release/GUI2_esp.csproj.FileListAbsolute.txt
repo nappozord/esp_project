@@ -1,0 +1,9 @@
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI2_esp\GUI2_esp\bin\Release\GUI2_esp.exe.config
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI2_esp\GUI2_esp\bin\Release\GUI2_esp.exe
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI2_esp\GUI2_esp\bin\Release\GUI2_esp.pdb
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI2_esp\GUI2_esp\obj\Release\GUI2_esp.Form1.resources
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI2_esp\GUI2_esp\obj\Release\GUI2_esp.Properties.Resources.resources
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI2_esp\GUI2_esp\obj\Release\GUI2_esp.csproj.GenerateResource.cache
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI2_esp\GUI2_esp\obj\Release\GUI2_esp.csproj.CoreCompileInputs.cache
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI2_esp\GUI2_esp\obj\Release\GUI2_esp.exe
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI2_esp\GUI2_esp\obj\Release\GUI2_esp.pdb

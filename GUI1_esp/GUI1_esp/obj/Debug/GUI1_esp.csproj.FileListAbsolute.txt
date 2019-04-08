@@ -1,0 +1,119 @@
+C:\Users\dignu\source\repos\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csprojAssemblyReference.cache
+C:\Users\dignu\source\repos\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.Form1.resources
+C:\Users\dignu\source\repos\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.Properties.Resources.resources
+C:\Users\dignu\source\repos\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csproj.GenerateResource.cache
+C:\Users\dignu\source\repos\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csproj.CoreCompileInputs.cache
+C:\Users\dignu\source\repos\GUI1_esp\GUI1_esp\bin\Debug\GUI1_esp.exe.config
+C:\Users\dignu\source\repos\GUI1_esp\GUI1_esp\bin\Debug\GUI1_esp.exe
+C:\Users\dignu\source\repos\GUI1_esp\GUI1_esp\bin\Debug\GUI1_esp.pdb
+C:\Users\dignu\source\repos\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.exe
+C:\Users\dignu\source\repos\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.pdb
+C:\Users\dignu\source\repos\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.Form2.resources
+C:\Users\alena.NAPPOZORDDESK\Desktop\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csprojAssemblyReference.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.Form2.resources
+C:\Users\alena.NAPPOZORDDESK\Desktop\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.Properties.Resources.resources
+C:\Users\alena.NAPPOZORDDESK\Desktop\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csproj.GenerateResource.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csproj.CoreCompileInputs.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.exe
+C:\Users\alena.NAPPOZORDDESK\Desktop\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\GUI1_esp\GUI1_esp\bin\Debug\GUI1_esp.exe.config
+C:\Users\alena.NAPPOZORDDESK\Desktop\GUI1_esp\GUI1_esp\bin\Debug\GUI1_esp.exe
+C:\Users\alena.NAPPOZORDDESK\Desktop\GUI1_esp\GUI1_esp\bin\Debug\GUI1_esp.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\GUI1_esp\GUI1_esp\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\alena.NAPPOZORDDESK\Desktop\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csproj.CopyComplete
+C:\Users\dignu\Desktop\esponi\GUI1_esp\GUI1_esp\bin\Debug\GUI1_esp.exe.config
+C:\Users\dignu\Desktop\esponi\GUI1_esp\GUI1_esp\bin\Debug\GUI1_esp.exe
+C:\Users\dignu\Desktop\esponi\GUI1_esp\GUI1_esp\bin\Debug\GUI1_esp.pdb
+C:\Users\dignu\Desktop\esponi\GUI1_esp\GUI1_esp\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\dignu\Desktop\esponi\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csprojAssemblyReference.cache
+C:\Users\dignu\Desktop\esponi\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.Form2.resources
+C:\Users\dignu\Desktop\esponi\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.Properties.Resources.resources
+C:\Users\dignu\Desktop\esponi\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csproj.GenerateResource.cache
+C:\Users\dignu\Desktop\esponi\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csproj.CoreCompileInputs.cache
+C:\Users\dignu\Desktop\esponi\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csproj.CopyComplete
+C:\Users\dignu\Desktop\esponi\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.exe
+C:\Users\dignu\Desktop\esponi\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi\GUI1_esp\GUI1_esp\bin\Debug\GUI1_esp.exe.config
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi\GUI1_esp\GUI1_esp\bin\Debug\GUI1_esp.exe
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi\GUI1_esp\GUI1_esp\bin\Debug\GUI1_esp.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi\GUI1_esp\GUI1_esp\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csprojAssemblyReference.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.Form2.resources
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.Properties.Resources.resources
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csproj.GenerateResource.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csproj.CoreCompileInputs.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csproj.CopyComplete
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.exe
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.pdb
+D:\Users\marri\Desktop\esp\esponi\GUI1_esp\GUI1_esp\bin\Debug\GUI1_esp.exe.config
+D:\Users\marri\Desktop\esp\esponi\GUI1_esp\GUI1_esp\bin\Debug\GUI1_esp.exe
+D:\Users\marri\Desktop\esp\esponi\GUI1_esp\GUI1_esp\bin\Debug\GUI1_esp.pdb
+D:\Users\marri\Desktop\esp\esponi\GUI1_esp\GUI1_esp\bin\Debug\Tulpep.NotificationWindow.dll
+D:\Users\marri\Desktop\esp\esponi\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csprojAssemblyReference.cache
+D:\Users\marri\Desktop\esp\esponi\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.Form2.resources
+D:\Users\marri\Desktop\esp\esponi\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.Properties.Resources.resources
+D:\Users\marri\Desktop\esp\esponi\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csproj.GenerateResource.cache
+D:\Users\marri\Desktop\esp\esponi\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csproj.CoreCompileInputs.cache
+D:\Users\marri\Desktop\esp\esponi\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csproj.CopyComplete
+D:\Users\marri\Desktop\esp\esponi\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.exe
+D:\Users\marri\Desktop\esp\esponi\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_SERVER_CAMBIATO\GUI1_esp\GUI1_esp\bin\Debug\GUI1_esp.exe.config
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_SERVER_CAMBIATO\GUI1_esp\GUI1_esp\bin\Debug\GUI1_esp.exe
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_SERVER_CAMBIATO\GUI1_esp\GUI1_esp\bin\Debug\GUI1_esp.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_SERVER_CAMBIATO\GUI1_esp\GUI1_esp\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_SERVER_CAMBIATO\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csprojAssemblyReference.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_SERVER_CAMBIATO\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.Form2.resources
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_SERVER_CAMBIATO\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.Properties.Resources.resources
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_SERVER_CAMBIATO\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csproj.GenerateResource.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_SERVER_CAMBIATO\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csproj.CoreCompileInputs.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_SERVER_CAMBIATO\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csproj.CopyComplete
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_SERVER_CAMBIATO\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.exe
+C:\Users\alena.NAPPOZORDDESK\Desktop\esponi_SERVER_CAMBIATO\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN\GUI1_esp\GUI1_esp\bin\Debug\GUI1_esp.exe.config
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN\GUI1_esp\GUI1_esp\bin\Debug\GUI1_esp.exe
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN\GUI1_esp\GUI1_esp\bin\Debug\GUI1_esp.pdb
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN\GUI1_esp\GUI1_esp\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csprojAssemblyReference.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.Form2.resources
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.Properties.Resources.resources
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csproj.GenerateResource.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csproj.CoreCompileInputs.cache
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csproj.CopyComplete
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.exe
+C:\Users\alena.NAPPOZORDDESK\Desktop\esp_SUPER_SAJAN\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.pdb
+E:\esp_SUPER_SAJAN\GUI1_esp\GUI1_esp\bin\Debug\GUI1_esp.exe.config
+E:\esp_SUPER_SAJAN\GUI1_esp\GUI1_esp\bin\Debug\GUI1_esp.exe
+E:\esp_SUPER_SAJAN\GUI1_esp\GUI1_esp\bin\Debug\GUI1_esp.pdb
+E:\esp_SUPER_SAJAN\GUI1_esp\GUI1_esp\bin\Debug\Tulpep.NotificationWindow.dll
+E:\esp_SUPER_SAJAN\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csprojAssemblyReference.cache
+E:\esp_SUPER_SAJAN\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.Form2.resources
+E:\esp_SUPER_SAJAN\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.Properties.Resources.resources
+E:\esp_SUPER_SAJAN\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csproj.GenerateResource.cache
+E:\esp_SUPER_SAJAN\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csproj.CoreCompileInputs.cache
+E:\esp_SUPER_SAJAN\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csproj.CopyComplete
+E:\esp_SUPER_SAJAN\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.exe
+E:\esp_SUPER_SAJAN\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.pdb
+C:\Users\dignu\Desktop\Nuova cartella\GUI1_esp\GUI1_esp\bin\Debug\GUI1_esp.exe.config
+C:\Users\dignu\Desktop\Nuova cartella\GUI1_esp\GUI1_esp\bin\Debug\GUI1_esp.exe
+C:\Users\dignu\Desktop\Nuova cartella\GUI1_esp\GUI1_esp\bin\Debug\GUI1_esp.pdb
+C:\Users\dignu\Desktop\Nuova cartella\GUI1_esp\GUI1_esp\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\dignu\Desktop\Nuova cartella\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csprojAssemblyReference.cache
+C:\Users\dignu\Desktop\Nuova cartella\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.Form2.resources
+C:\Users\dignu\Desktop\Nuova cartella\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.Properties.Resources.resources
+C:\Users\dignu\Desktop\Nuova cartella\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csproj.GenerateResource.cache
+C:\Users\dignu\Desktop\Nuova cartella\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csproj.CoreCompileInputs.cache
+C:\Users\dignu\Desktop\Nuova cartella\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csproj.CopyComplete
+C:\Users\dignu\Desktop\Nuova cartella\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.exe
+C:\Users\dignu\Desktop\Nuova cartella\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.pdb
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI1_esp\GUI1_esp\bin\Debug\GUI1_esp.exe.config
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI1_esp\GUI1_esp\bin\Debug\GUI1_esp.exe
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI1_esp\GUI1_esp\bin\Debug\GUI1_esp.pdb
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI1_esp\GUI1_esp\bin\Debug\Tulpep.NotificationWindow.dll
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csprojAssemblyReference.cache
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.Form2.resources
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.Properties.Resources.resources
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csproj.GenerateResource.cache
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csproj.CoreCompileInputs.cache
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.csproj.CopyComplete
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.exe
+D:\Onedrive\esp_SUPER_SSJ_GOD_SSJ(v1)\GUI1_esp\GUI1_esp\obj\Debug\GUI1_esp.pdb
